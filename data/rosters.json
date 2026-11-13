@@ -1,0 +1,1364 @@
+{
+ "Team Vitality": {
+  "vlrId": "2059",
+  "slug": "team-vitality",
+  "roster": [
+   {
+    "handle": "Jamppi",
+    "real": "Elias Olkkonen",
+    "flag": "fi",
+    "pid": "9780"
+   },
+   {
+    "handle": "PROFEK",
+    "real": "Dawid Święć",
+    "flag": "pl",
+    "pid": "5554"
+   },
+   {
+    "handle": "Chronicle",
+    "real": "Timofey Khromov",
+    "flag": "ru",
+    "pid": "458"
+   },
+   {
+    "handle": "Sayonara",
+    "real": "Ștefan Mîtcu",
+    "flag": "md",
+    "pid": "33902"
+   }
+  ]
+ },
+ "Enterprise Esports": {
+  "vlrId": "876",
+  "slug": "enterprise-esports",
+  "roster": [
+   {
+    "handle": "kozzy",
+    "real": "Denis Stefan Aionitoaei",
+    "flag": "ro",
+    "pid": "55681"
+   },
+   {
+    "handle": "MAGNUM",
+    "real": "Martin Penkov",
+    "flag": "cz",
+    "pid": "2173"
+   },
+   {
+    "handle": "iluri",
+    "real": "Ilari Puranen",
+    "flag": "fi",
+    "pid": "3674"
+   },
+   {
+    "handle": "paTiTek",
+    "real": "Patryk Fabrowski",
+    "flag": "pl",
+    "pid": "309"
+   },
+   {
+    "handle": "Lime",
+    "real": "Jacob Foster",
+    "flag": "gb",
+    "pid": "10338"
+   }
+  ]
+ },
+ "Karmine Corp": {
+  "vlrId": "8877",
+  "slug": "karmine-corp",
+  "roster": [
+   {
+    "handle": "Avez",
+    "real": "Hazem Khaled",
+    "flag": "eg",
+    "pid": "5654"
+   },
+   {
+    "handle": "dos9",
+    "real": "Zhumagali Dastan",
+    "flag": "kz",
+    "pid": "16215"
+   },
+   {
+    "handle": "LewN",
+    "real": "Burak Alkan",
+    "flag": "tr",
+    "pid": "20144"
+   },
+   {
+    "handle": "SUYGETSU",
+    "real": "Dmitry Ilyushin",
+    "flag": "un",
+    "pid": "2858"
+   },
+   {
+    "handle": "N4RRATE",
+    "real": "Marshall Massey",
+    "flag": "us",
+    "pid": "36245"
+   },
+   {
+    "handle": "Chaza",
+    "real": "Charlie Phillips",
+    "flag": "gb",
+    "pid": "48705"
+   },
+   {
+    "handle": "sheydos",
+    "real": "Bogdan Naumov",
+    "flag": "ru",
+    "pid": "1428"
+   }
+  ]
+ },
+ "CGN Esports": {
+  "vlrId": "5214",
+  "slug": "cgn-esports",
+  "roster": [
+   {
+    "handle": "Vince",
+    "real": "Vincent Kranz",
+    "flag": "de",
+    "pid": "4329"
+   },
+   {
+    "handle": "Wolfen",
+    "real": "Berkant Joshkun",
+    "flag": "bg",
+    "pid": "9558"
+   },
+   {
+    "handle": "samed",
+    "real": "Samed Topbas",
+    "flag": "at",
+    "pid": "35513"
+   },
+   {
+    "handle": "Serial",
+    "real": "Maikls Zdanovs",
+    "flag": "lv",
+    "pid": "18162"
+   },
+   {
+    "handle": "shinnok",
+    "real": "Viktor Zsombor Maglóczki",
+    "flag": "hu",
+    "pid": "33358"
+   }
+  ]
+ },
+ "BBL Esports": {
+  "vlrId": "397",
+  "slug": "bbl-esports",
+  "roster": [
+   {
+    "handle": "Lar0k",
+    "real": "Yusuf Kaan Kanber",
+    "flag": "tr",
+    "pid": "31305"
+   },
+   {
+    "handle": "Loita",
+    "real": "Utku Kart",
+    "flag": "tr",
+    "pid": "24344"
+   },
+   {
+    "handle": "Rosé",
+    "real": "Eren Erzan",
+    "flag": "tr",
+    "pid": "5565"
+   },
+   {
+    "handle": "Crewen",
+    "real": "Ali Eren Sargin",
+    "flag": "tr",
+    "pid": "12795"
+   },
+   {
+    "handle": "lovers rock",
+    "real": "Umut Pekdoğan",
+    "flag": "tr",
+    "pid": "40935"
+   }
+  ]
+ },
+ "Team Liquid": {
+  "vlrId": "474",
+  "slug": "team-liquid",
+  "roster": [
+   {
+    "handle": "kamo",
+    "real": "Kamil Frąckowiak",
+    "flag": "pl",
+    "pid": "14681"
+   },
+   {
+    "handle": "GSR",
+    "real": "Ognjen Bondžić",
+    "flag": "rs",
+    "pid": "50813"
+   },
+   {
+    "handle": "nAts",
+    "real": "Ayaz Akhmetshin",
+    "flag": "ru",
+    "pid": "457"
+   }
+  ]
+ },
+ "Eintracht Frankfurt": {
+  "vlrId": "14478",
+  "slug": "eintracht-frankfurt",
+  "roster": [
+   {
+    "handle": "musashi",
+    "real": "Alessio Xhaferi",
+    "flag": "de",
+    "pid": "4325"
+   },
+   {
+    "handle": "azury",
+    "real": "Luca Sammer",
+    "flag": "de",
+    "pid": "4629"
+   },
+   {
+    "handle": "Jamelinho213",
+    "real": "Ryad Bentot",
+    "flag": "fr",
+    "pid": "57336"
+   },
+   {
+    "handle": "Fizzy",
+    "real": "David Figueiredo",
+    "flag": "pt",
+    "pid": "7660"
+   }
+  ]
+ },
+ "Team Heretics": {
+  "vlrId": "1001",
+  "slug": "team-heretics",
+  "roster": [
+   {
+    "handle": "RieNs",
+    "real": "Enes Ecirli",
+    "flag": "tr",
+    "pid": "10971"
+   },
+   {
+    "handle": "benjyfishy",
+    "real": "Benjamin David Fish",
+    "flag": "gb",
+    "pid": "29873"
+   }
+  ]
+ },
+ "FUT Esports": {
+  "vlrId": "1184",
+  "slug": "fut-esports",
+  "roster": [
+   {
+    "handle": "yetujey",
+    "real": "Eray Budak",
+    "flag": "tr",
+    "pid": "8369"
+   },
+   {
+    "handle": "KROSTALY",
+    "real": "Okan Alaçam",
+    "flag": "tr",
+    "pid": "15735"
+   }
+  ]
+ },
+ "100 Thieves": {
+  "vlrId": "120",
+  "slug": "100-thieves",
+  "roster": [
+   {
+    "handle": "vora",
+    "real": "Jordan Pulwer",
+    "flag": "ca",
+    "pid": "20140"
+   },
+   {
+    "handle": "Cryocells",
+    "real": "Matthew Panganiban",
+    "flag": "us",
+    "pid": "4147"
+   },
+   {
+    "handle": "Asuna",
+    "real": "Peter Mazuryk",
+    "flag": "us",
+    "pid": "601"
+   },
+   {
+    "handle": "Timotino",
+    "real": "Timothée Lavigne Dupont",
+    "flag": "ca",
+    "pid": "29893"
+   },
+   {
+    "handle": "bang",
+    "real": "Sean Bezerra",
+    "flag": "us",
+    "pid": "3880"
+   }
+  ]
+ },
+ "NRG": {
+  "vlrId": "1034",
+  "slug": "nrg",
+  "roster": [
+   {
+    "handle": "Ethan",
+    "real": "Ethan Arnold",
+    "flag": "us",
+    "pid": "11225"
+   },
+   {
+    "handle": "mada",
+    "real": "Adam Pampuch",
+    "flag": "ca",
+    "pid": "5132"
+   },
+   {
+    "handle": "skuba",
+    "real": "Logan Jenkins",
+    "flag": "us",
+    "pid": "11118"
+   }
+  ]
+ },
+ "LEVIATÁN": {
+  "vlrId": "2359",
+  "slug": "leviat-n",
+  "roster": [
+   {
+    "handle": "kiNgg",
+    "real": "Francisco Aravena",
+    "flag": "cl",
+    "pid": "8549"
+   },
+   {
+    "handle": "spike",
+    "real": "Rodrigo Lombardi",
+    "flag": "br",
+    "pid": "21661"
+   },
+   {
+    "handle": "blowz",
+    "real": "Guilherme Oliviera",
+    "flag": "br",
+    "pid": "21251"
+   },
+   {
+    "handle": "Neon",
+    "real": "Bruno Rodríguez",
+    "flag": "ar",
+    "pid": "29243"
+   },
+   {
+    "handle": "Sato",
+    "real": "Eduardo Kenzo Nagahama Sato",
+    "flag": "br",
+    "pid": "21659"
+   }
+  ]
+ },
+ "G2 Esports": {
+  "vlrId": "11058",
+  "slug": "g2-esports",
+  "roster": [
+   {
+    "handle": "jawgemo",
+    "real": "Alexander Mor",
+    "flag": "kh",
+    "pid": "3993"
+   },
+   {
+    "handle": "trent",
+    "real": "Trent Cairns",
+    "flag": "us",
+    "pid": "15500"
+   },
+   {
+    "handle": "leaf",
+    "real": "Nathan Orf",
+    "flag": "us",
+    "pid": "7873"
+   }
+  ]
+ },
+ "ENVY": {
+  "vlrId": "427",
+  "slug": "envy",
+  "roster": [
+   {
+    "handle": "Eggsterr",
+    "real": "Evan Grady",
+    "flag": "us",
+    "pid": "35302"
+   },
+   {
+    "handle": "ion",
+    "real": "Ayan Rastogi",
+    "flag": "in",
+    "pid": "29547"
+   },
+   {
+    "handle": "P0PPIN",
+    "real": "Matteo Weber",
+    "flag": "us",
+    "pid": "21778"
+   },
+   {
+    "handle": "Rossy",
+    "real": "Daniel Abedrabbo",
+    "flag": "us",
+    "pid": "1129"
+   },
+   {
+    "handle": "keznit",
+    "real": "Angelo Mori",
+    "flag": "cl",
+    "pid": "2462"
+   },
+   {
+    "handle": "Demon1",
+    "real": "Max Mazanov",
+    "flag": "us",
+    "pid": "26171"
+   },
+   {
+    "handle": "nightz",
+    "real": "Christian Smith",
+    "flag": "us",
+    "pid": "41798"
+   }
+  ]
+ },
+ "LOUD": {
+  "vlrId": "6961",
+  "slug": "loud",
+  "roster": [
+   {
+    "handle": "erde",
+    "real": "Roberto Lobos",
+    "flag": "cl",
+    "pid": "29242"
+   },
+   {
+    "handle": "lukxo",
+    "real": "Lucca Travaioli",
+    "flag": "br",
+    "pid": "28716"
+   },
+   {
+    "handle": "DaviH",
+    "real": "David Cruz",
+    "flag": "pt",
+    "pid": "10885"
+   },
+   {
+    "handle": "Darker",
+    "real": "Sebastián Castro Cicuamia",
+    "flag": "co",
+    "pid": "10557"
+   },
+   {
+    "handle": "tkzin",
+    "real": "Enzo Zimiani",
+    "flag": "br",
+    "pid": "41224"
+   }
+  ]
+ },
+ "MIBR": {
+  "vlrId": "7386",
+  "slug": "mibr",
+  "roster": [
+   {
+    "handle": "tex",
+    "real": "Ian Botsch",
+    "flag": "de",
+    "pid": "1818"
+   },
+   {
+    "handle": "zekken",
+    "real": "Zachary Patrone",
+    "flag": "us",
+    "pid": "4004"
+   },
+   {
+    "handle": "Mazino",
+    "real": "Roberto Rivas",
+    "flag": "cl",
+    "pid": "7603"
+   },
+   {
+    "handle": "Verno",
+    "real": "Andrew Maust",
+    "flag": "us",
+    "pid": "21668"
+   },
+   {
+    "handle": "aspas",
+    "real": "Erick Santos",
+    "flag": "br",
+    "pid": "8480"
+   }
+  ]
+ },
+ "Sharper Esports": {
+  "vlrId": "623",
+  "slug": "sharper-esports",
+  "roster": [
+   {
+    "handle": "PTC",
+    "real": "Kititkawin Rattanasukol",
+    "flag": "th",
+    "pid": "3401"
+   },
+   {
+    "handle": "Kadoom",
+    "real": "Kantapong Kingthong",
+    "flag": "th",
+    "pid": "12098"
+   },
+   {
+    "handle": "Apinya",
+    "real": "Apinya Laotaew",
+    "flag": "th",
+    "pid": "15897"
+   },
+   {
+    "handle": "Laz",
+    "real": "Kittikawin Jirawatkakan",
+    "flag": "th",
+    "pid": "8582"
+   },
+   {
+    "handle": "niffy",
+    "real": "Patcharapon Junman",
+    "flag": "th",
+    "pid": "19150"
+   }
+  ]
+ },
+ "Paper Rex": {
+  "vlrId": "624",
+  "slug": "paper-rex",
+  "roster": [
+   {
+    "handle": "invy",
+    "real": "Adrian Jiggs Reyes",
+    "flag": "ph",
+    "pid": "8504"
+   },
+   {
+    "handle": "f0rsakeN",
+    "real": "Jason Susanto",
+    "flag": "id",
+    "pid": "9801"
+   },
+   {
+    "handle": "something",
+    "real": "Ilya Petrov",
+    "flag": "ru",
+    "pid": "17086"
+   }
+  ]
+ },
+ "Fancy United Esports": {
+  "vlrId": "4330",
+  "slug": "fancy-united-esports",
+  "roster": [
+   {
+    "handle": "f1cio",
+    "real": "Hoàng Ngọc Sơn",
+    "flag": "vn",
+    "pid": "8225"
+   },
+   {
+    "handle": "bucute",
+    "real": "Trần Công Danh",
+    "flag": "vn",
+    "pid": "48575"
+   },
+   {
+    "handle": "deviceHP",
+    "real": "Nguyen Van Thanh Dat",
+    "flag": "vn",
+    "pid": "56062"
+   },
+   {
+    "handle": "YESicaN",
+    "real": "Đinh Đình Đạt",
+    "flag": "vn",
+    "pid": "1437"
+   },
+   {
+    "handle": "Nia",
+    "real": "Trịnh Huỳnh Thiên Ân",
+    "flag": "vn",
+    "pid": "48574"
+   },
+   {
+    "handle": "twilight",
+    "real": "Hoàng Minh Dũng",
+    "flag": "vn",
+    "pid": "46463"
+   }
+  ]
+ },
+ "Motiv Esports": {
+  "vlrId": "18117",
+  "slug": "motiv-esports",
+  "roster": [
+   {
+    "handle": "Reverie",
+    "real": "Steven Kang Kai Lun",
+    "flag": "sg",
+    "pid": "16942"
+   },
+   {
+    "handle": "Inf",
+    "real": "Venneth Tay",
+    "flag": "sg",
+    "pid": "34031"
+   },
+   {
+    "handle": "Teddy",
+    "real": "Elvis Lim Zhi Hao",
+    "flag": "sg",
+    "pid": "21195"
+   },
+   {
+    "handle": "ki1wsy",
+    "real": "Chanamet Saekhow",
+    "flag": "th",
+    "pid": "41701"
+   },
+   {
+    "handle": "Vera",
+    "real": "Rodman Yap",
+    "flag": "sg",
+    "pid": "24653"
+   },
+   {
+    "handle": "Pyrix",
+    "real": "",
+    "flag": "sg",
+    "pid": "43551"
+   }
+  ]
+ },
+ "Nongshim RedForce": {
+  "vlrId": "11060",
+  "slug": "nongshim-redforce",
+  "roster": [
+   {
+    "handle": "Rb",
+    "real": "Goo Sang-min (구상민)",
+    "flag": "kr",
+    "pid": "488"
+   },
+   {
+    "handle": "WoohyuN",
+    "real": "Moon Woo-hyun (문우현)",
+    "flag": "kr",
+    "pid": "66086"
+   },
+   {
+    "handle": "Xross",
+    "real": "Jeonghwan (정환)",
+    "flag": "kr",
+    "pid": "42772"
+   },
+   {
+    "handle": "UdoTan",
+    "real": "Go Kyung-won (고경원)",
+    "flag": "kr",
+    "pid": "4428"
+   },
+   {
+    "handle": "Francis",
+    "real": "Kim Mu-bin (김무빈)",
+    "flag": "kr",
+    "pid": "31828"
+   },
+   {
+    "handle": "Ivy",
+    "real": "Park Sung-hyeon (박성현)",
+    "flag": "kr",
+    "pid": "31829"
+   }
+  ]
+ },
+ "T1": {
+  "vlrId": "14",
+  "slug": "t1",
+  "roster": [
+   {
+    "handle": "stax",
+    "real": "Kim Gu-taek (김구택)",
+    "flag": "kr",
+    "pid": "485"
+   },
+   {
+    "handle": "BuZz",
+    "real": "Yu Byeong-cheol (유병철)",
+    "flag": "kr",
+    "pid": "804"
+   },
+   {
+    "handle": "iZu",
+    "real": "Ham Woo-ju (함우주)",
+    "flag": "kr",
+    "pid": "29833"
+   }
+  ]
+ },
+ "Gen.G": {
+  "vlrId": "17",
+  "slug": "gen-g",
+  "roster": [
+   {
+    "handle": "Karon",
+    "real": "Kim Won-tae (김원태)",
+    "flag": "kr",
+    "pid": "34974"
+   },
+   {
+    "handle": "Xiesta",
+    "real": "Jung Si-hwan (정시환)",
+    "flag": "kr",
+    "pid": "62291"
+   },
+   {
+    "handle": "t3xture",
+    "real": "Kim Na-ra (김나라)",
+    "flag": "kr",
+    "pid": "9196"
+   },
+   {
+    "handle": "Raxcal",
+    "real": "Kim Min-seok (김민석)",
+    "flag": "kr",
+    "pid": "48925"
+   },
+   {
+    "handle": "ZynX",
+    "real": "Kim Dong-ha (김동하)",
+    "flag": "kr",
+    "pid": "51099"
+   }
+  ]
+ },
+ "KIWOOM DRX": {
+  "vlrId": "8185",
+  "slug": "kiwoom-drx",
+  "roster": [
+   {
+    "handle": "Flicker",
+    "real": "Kim Tae-hee (김태희)",
+    "flag": "kr",
+    "pid": "51100"
+   },
+   {
+    "handle": "yong",
+    "real": "Kim Ho-yong (김호용)",
+    "flag": "kr",
+    "pid": "51238"
+   }
+  ]
+ },
+ "Nova Esports": {
+  "vlrId": "12064",
+  "slug": "nova-esports",
+  "roster": [
+   {
+    "handle": "qiutiaN",
+    "real": "Bijan Moeinzadeh (慕英毕强)",
+    "flag": "tw",
+    "pid": "43007"
+   },
+   {
+    "handle": "cb",
+    "real": "Wang Qingchuan (王庆川)",
+    "flag": "cn",
+    "pid": "39697"
+   },
+   {
+    "handle": "Ezeir",
+    "real": "Zhao Zejun (赵泽骏)",
+    "flag": "cn",
+    "pid": "46460"
+   },
+   {
+    "handle": "GuanG",
+    "real": "Guang Honglin (光洪霖)",
+    "flag": "cn",
+    "pid": "41054"
+   },
+   {
+    "handle": "swagzor",
+    "real": "Mikhail Vaniushin",
+    "flag": "ru",
+    "pid": "45492"
+   },
+   {
+    "handle": "kodeth",
+    "real": "Bo Li",
+    "flag": "cn",
+    "pid": "39060"
+   },
+   {
+    "handle": "GREEN",
+    "real": "Qiu Jianzhi (邱建智)",
+    "flag": "tw",
+    "pid": "34181"
+   }
+  ]
+ },
+ "TYLOO": {
+  "vlrId": "731",
+  "slug": "tyloo",
+  "roster": [
+   {
+    "handle": "SiuFatBB",
+    "real": "Pong Gaa Hei (庞加曦)",
+    "flag": "hk",
+    "pid": "7849"
+   },
+   {
+    "handle": "splash",
+    "real": "Moses Christophe Jonathan",
+    "flag": "id",
+    "pid": "36685"
+   },
+   {
+    "handle": "Scales",
+    "real": "Zhang Zhen (张震)",
+    "flag": "cn",
+    "pid": "39485"
+   },
+   {
+    "handle": "Erv",
+    "real": "Shen Zhiwei",
+    "flag": "cn",
+    "pid": "55085"
+   },
+   {
+    "handle": "slowly",
+    "real": "Kelun Sun (孙科伦)",
+    "flag": "cn",
+    "pid": "41739"
+   },
+   {
+    "handle": "xihe",
+    "real": "Peng Wenbo (彭文博)",
+    "flag": "cn",
+    "pid": "64854"
+   }
+  ]
+ },
+ "Xi Lai Gaming": {
+  "vlrId": "13581",
+  "slug": "xi-lai-gaming",
+  "roster": [
+   {
+    "handle": "WsLeo",
+    "real": "Huang Pinwei (黄品维)",
+    "flag": "tw",
+    "pid": "24308"
+   },
+   {
+    "handle": "Sharks",
+    "real": "Qiu Ge (邱戈)",
+    "flag": "cn",
+    "pid": "64849"
+   },
+   {
+    "handle": "Lysoar",
+    "real": "Liang Youhao (梁优好)",
+    "flag": "cn",
+    "pid": "37489"
+   },
+   {
+    "handle": "happywei",
+    "real": "Deng Minwei (邓闵维)",
+    "flag": "tw",
+    "pid": "37927"
+   },
+   {
+    "handle": "Rarga",
+    "real": "Arthur Churyumov",
+    "flag": "ru",
+    "pid": "22047"
+   },
+   {
+    "handle": "NoMan",
+    "real": "James Man",
+    "flag": "hk",
+    "pid": "11527"
+   }
+  ]
+ },
+ "EDward Gaming": {
+  "vlrId": "1120",
+  "slug": "edward-gaming",
+  "roster": [
+   {
+    "handle": "nobody",
+    "real": "Wang Senxu (王森旭)",
+    "flag": "cn",
+    "pid": "3017"
+   },
+   {
+    "handle": "ZmjjKK",
+    "real": "Zheng Yongkang (郑永康)",
+    "flag": "cn",
+    "pid": "3520"
+   },
+   {
+    "handle": "CHICHOO",
+    "real": "Wan Shunzhi (万顺治)",
+    "flag": "cn",
+    "pid": "15559"
+   },
+   {
+    "handle": "Smoggy",
+    "real": "Zhang Zhao (张钊)",
+    "flag": "cn",
+    "pid": "4742"
+   },
+   {
+    "handle": "Jieni7",
+    "real": "Zhang Juntai (张君泰)",
+    "flag": "cn",
+    "pid": "51244"
+   },
+   {
+    "handle": "stew",
+    "real": "Park Young-chan (박영찬)",
+    "flag": "kr",
+    "pid": "16924"
+   },
+   {
+    "handle": "zjc",
+    "real": "Zhang Juncheng (张峻程)",
+    "flag": "cn",
+    "pid": "7135"
+   }
+  ]
+ },
+ "Rare Atom": {
+  "vlrId": "11985",
+  "slug": "rare-atom",
+  "roster": [
+   {
+    "handle": "Guran",
+    "real": "Zhou Minyan (周铭言)",
+    "flag": "cn",
+    "pid": "36513"
+   },
+   {
+    "handle": "Potter",
+    "real": "Sutthichai Promsrikaew",
+    "flag": "th",
+    "pid": "23930"
+   },
+   {
+    "handle": "nnono",
+    "real": "",
+    "flag": "cn",
+    "pid": "58960"
+   },
+   {
+    "handle": "Croudy",
+    "real": "",
+    "flag": "tw",
+    "pid": "49612"
+   },
+   {
+    "handle": "Ben1Ley",
+    "real": "Shi Benyu",
+    "flag": "cn",
+    "pid": "55823"
+   },
+   {
+    "handle": "Z1yan",
+    "real": "Liu Zihan (刘紫涵)",
+    "flag": "cn",
+    "pid": "41029"
+   }
+  ]
+ },
+ "All Gamers": {
+  "vlrId": "1119",
+  "slug": "all-gamers",
+  "roster": [
+   {
+    "handle": "Shr1mp",
+    "real": "Yang Yong (杨勇)",
+    "flag": "cn",
+    "pid": "25494"
+   },
+   {
+    "handle": "K1ra",
+    "real": "Huang Zhihao (黄志豪)",
+    "flag": "cn",
+    "pid": "46748"
+   },
+   {
+    "handle": "f4ngeer",
+    "real": "Roman Smirnov",
+    "flag": "ru",
+    "pid": "21216"
+   },
+   {
+    "handle": "iamgrq",
+    "real": "Gao Ruiqi (高锐琦)",
+    "flag": "cn",
+    "pid": "58959"
+   }
+  ]
+ },
+ "JD Gaming": {
+  "vlrId": "13576",
+  "slug": "jd-gaming",
+  "roster": [
+   {
+    "handle": "BerLIN",
+    "real": "Zhang Bolin (張柏霖)",
+    "flag": "tw",
+    "pid": "7857"
+   },
+   {
+    "handle": "jkuro",
+    "real": "Yong Haochong (杨浩聪)",
+    "flag": "cn",
+    "pid": "3519"
+   },
+   {
+    "handle": "zhe",
+    "real": "Niu Zhe (牛哲)",
+    "flag": "cn",
+    "pid": "49476"
+   },
+   {
+    "handle": "Yuicaw",
+    "real": "Huang Yung-chieh (黃湧傑)",
+    "flag": "tw",
+    "pid": "11218"
+   },
+   {
+    "handle": "crownfisher",
+    "real": "Li Ao (李翱)",
+    "flag": "cn",
+    "pid": "64969"
+   }
+  ]
+ },
+ "Bilibili Gaming": {
+  "vlrId": "12010",
+  "slug": "bilibili-gaming",
+  "roster": [
+   {
+    "handle": "whzy",
+    "real": "Wang Haozhe (王昊哲)",
+    "flag": "cn",
+    "pid": "4885"
+   },
+   {
+    "handle": "rushia",
+    "real": "Wang Xiaojie (王晓杰)",
+    "flag": "cn",
+    "pid": "48878"
+   },
+   {
+    "handle": "nephh",
+    "real": "Marcus Tan",
+    "flag": "sg",
+    "pid": "10698"
+   },
+   {
+    "handle": "yilai",
+    "real": "Gu Yiming (顾依铭)",
+    "flag": "cn",
+    "pid": "62947"
+   },
+   {
+    "handle": "Knight",
+    "real": "Liu Yuxiang (刘宇翔)",
+    "flag": "cn",
+    "pid": "4774"
+   },
+   {
+    "handle": "bud",
+    "real": "Yang Renyu (杨韧余)",
+    "flag": "cn",
+    "pid": "56260"
+   },
+   {
+    "handle": "FT",
+    "real": "Yan Shuaibo (闫帅博)",
+    "flag": "cn",
+    "pid": "64029"
+   },
+   {
+    "handle": "Levius",
+    "real": "Lu Yinzhong (卢胤中)",
+    "flag": "cn",
+    "pid": "40845"
+   }
+  ]
+ },
+ "Dragon Ranger Gaming": {
+  "vlrId": "11981",
+  "slug": "dragon-ranger-gaming",
+  "roster": [
+   {
+    "handle": "Nicc",
+    "real": "Shao Yi-qun (邵逸群)",
+    "flag": "tw",
+    "pid": "11524"
+   },
+   {
+    "handle": "Flex1n",
+    "real": "Lo Rui (罗瑞)",
+    "flag": "cn",
+    "pid": "4705"
+   },
+   {
+    "handle": "Life",
+    "real": "Qu Donghao (瞿东豪)",
+    "flag": "cn",
+    "pid": "3028"
+   },
+   {
+    "handle": "Verse",
+    "real": "Zhou Zijun (周子钧)",
+    "flag": "cn",
+    "pid": "55817"
+   },
+   {
+    "handle": "SpiritZ1",
+    "real": "Lin Dingyu (林定宇)",
+    "flag": "tw",
+    "pid": "31753"
+   },
+   {
+    "handle": "vo0kashu",
+    "real": "Ilya Ushakov",
+    "flag": "ru",
+    "pid": "3741"
+   }
+  ]
+ },
+ "FunPlus Phoenix": {
+  "vlrId": "11328",
+  "slug": "funplus-phoenix",
+  "roster": [
+   {
+    "handle": "AAAAY",
+    "real": "Zhang Yang (张杨)",
+    "flag": "cn",
+    "pid": "19530"
+   },
+   {
+    "handle": "coconut",
+    "real": "Colin Patrick Chung (钟弘祖)",
+    "flag": "hk",
+    "pid": "12365"
+   },
+   {
+    "handle": "Xlele",
+    "real": "Zhao Yanbo (赵炎博)",
+    "flag": "cn",
+    "pid": "54487"
+   },
+   {
+    "handle": "77even",
+    "real": "Richard Venskevychius",
+    "flag": "lt",
+    "pid": "58290"
+   },
+   {
+    "handle": "Setrod",
+    "real": "Ou Taigeng (欧泰赓)",
+    "flag": "tw",
+    "pid": "50025"
+   }
+  ]
+ },
+ "Team Falcons Vega": {
+  "vlrId": "9314",
+  "slug": "team-falcons-vega",
+  "roster": [
+   {
+    "handle": "Alexy",
+    "real": "Alexy Francisco",
+    "flag": "ph",
+    "pid": "16621"
+   },
+   {
+    "handle": "enerii",
+    "real": "Odella Abraham",
+    "flag": "id",
+    "pid": "8176"
+   },
+   {
+    "handle": "madv",
+    "real": "Modhi Alkanhal",
+    "flag": "sa",
+    "pid": "29903"
+   },
+   {
+    "handle": "shirazi",
+    "real": "Kelly Jaudian",
+    "flag": "ph",
+    "pid": "18091"
+   },
+   {
+    "handle": "Reta",
+    "real": "Retaj Zuhair",
+    "flag": "sa",
+    "pid": "28679"
+   },
+   {
+    "handle": "Kamiyu",
+    "real": "Camille Enriquez",
+    "flag": "ph",
+    "pid": "18093"
+   }
+  ]
+ },
+ "KRÜ BLAZE": {
+  "vlrId": "7511",
+  "slug": "kr-blaze",
+  "roster": [
+   {
+    "handle": "none",
+    "real": "",
+    "flag": "br",
+    "pid": "33177"
+   },
+   {
+    "handle": "antG",
+    "real": "Antônia Garcia",
+    "flag": "br",
+    "pid": "11236"
+   },
+   {
+    "handle": "ponix",
+    "real": "Isidora Valentina Vásquez Muñoz",
+    "flag": "cl",
+    "pid": "21108"
+   },
+   {
+    "handle": "tok1o",
+    "real": "Amaro Miranda",
+    "flag": "ar",
+    "pid": "35660"
+   },
+   {
+    "handle": "dods",
+    "real": "Caue Fernandes",
+    "flag": "br",
+    "pid": "25663"
+   },
+   {
+    "handle": "micaela",
+    "real": "Micaela Ferreyra",
+    "flag": "ar",
+    "pid": "21558"
+   },
+   {
+    "handle": "mmonch",
+    "real": "",
+    "flag": "mx",
+    "pid": "12055"
+   }
+  ]
+ },
+ "Gentle Mates GC": {
+  "vlrId": "21093",
+  "slug": "gentle-mates-gc",
+  "roster": [
+   {
+    "handle": "Nami",
+    "real": "Iman Nagaaoui",
+    "flag": "fr",
+    "pid": "30186"
+   },
+   {
+    "handle": "berryx",
+    "real": "Emine Çoban",
+    "flag": "tr",
+    "pid": "47911"
+   },
+   {
+    "handle": "Wens",
+    "real": "Gülce Eda Sürmeli",
+    "flag": "tr",
+    "pid": "29442"
+   },
+   {
+    "handle": "Marti",
+    "real": "Martyna Pabian",
+    "flag": "pl",
+    "pid": "21158"
+   },
+   {
+    "handle": "safiaa",
+    "real": "Safia Leghzal",
+    "flag": "fr",
+    "pid": "39057"
+   }
+  ]
+ },
+ "MIBR GC": {
+  "vlrId": "8050",
+  "slug": "mibr-gc",
+  "roster": [
+   {
+    "handle": "bstrdd",
+    "real": "Paula Naguil",
+    "flag": "cl",
+    "pid": "4807"
+   },
+   {
+    "handle": "melissa",
+    "real": "Melissa Souza",
+    "flag": "br",
+    "pid": "19791"
+   },
+   {
+    "handle": "conir",
+    "real": "Constanza Reyes",
+    "flag": "cl",
+    "pid": "11259"
+   },
+   {
+    "handle": "mizzy",
+    "real": "Ester Cardoso",
+    "flag": "br",
+    "pid": "29823"
+   },
+   {
+    "handle": "waved",
+    "real": "",
+    "flag": "br",
+    "pid": "22997"
+   }
+  ]
+ }
+}

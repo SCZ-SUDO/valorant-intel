@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>以下犯上 // VALORANT INTEL</title>
+<link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+<div id="app">
+  <aside class="rail">
+    <div class="rail-brand">
+      <div class="brand-glyph">//</div>
+      <div class="brand-copy">
+        <h1>以下犯上</h1>
+        <p>VALORANT INTEL</p>
+      </div>
+    </div>
+
+    <div class="rail-kicker">TACTICAL DATABASE / 战术档案</div>
+
+    <nav class="rail-nav" id="nav">
+      <button data-view="home" class="on"><i>01</i><span>总览<small>OVERVIEW</small></span></button>
+      <button data-view="matches"><i>02</i><span>赛程<small>MATCHES</small></span></button>
+      <button data-view="predict"><i>03</i><span>预测<small>PREDICTION</small></span></button>
+      <button data-view="intel"><i>04</i><span>情报<small>INTEL FEED</small></span></button>
+      <button data-view="db"><i>05</i><span>数据库<small>DATABASE</small></span></button>
+      <button data-view="maplab"><i>06</i><span>跑图<small>MAP LAB</small></span></button>
+    </nav>
+
+    <div class="rail-model">
+      <div class="rm-head"><span>MODEL</span><b id="railAcc">—</b></div>
+      <div class="rm-bar"><i id="railBar"></i></div>
+      <p>2026 留出集命中率</p>
+    </div>
+
+    <div class="rail-foot">
+      <div class="rf-line"><span class="dot"></span><span id="railUpdated">数据载入中</span></div>
+      <div class="rf-line dim"><span>BUILD 2.0.0</span><span>DSH</span></div>
+    </div>
+  </aside>
+
+  <div class="stage">
+    <header class="topbar">
+      <div class="crumb">
+        <span class="slash">//</span>
+        <span class="crumb-en">VALORANT ESPORTS INTELLIGENCE</span>
+        <i>/</i>
+        <b id="crumb">总览</b>
+      </div>
+      <div class="top-actions">
+        <button class="search-trigger" id="searchTrigger">
+          <span class="st-icon">⌕</span>
+          <span>搜索选手 / 战队 / 赛事</span>
+          <kbd>⌘K</kbd>
+        </button>
+        <div class="clock" id="clock">--:--:--</div>
+        <button class="icon-btn" id="refreshBtn" title="刷新情报">↻</button>
+      </div>
+    </header>
+
+    <main id="view" class="view"></main>
+
+    <footer class="ticker">
+      <div class="ticker-label"><span class="live-dot"></span> INTEL</div>
+      <div class="ticker-track"><div class="ticker-move" id="ticker"></div></div>
+      <div class="ticker-meta" id="tickerMeta">—</div>
+    </footer>
+  </div>
+</div>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-hidden="true"></aside>
+
+<div class="modal" id="searchModal" hidden>
+  <div class="modal-panel">
+    <div class="modal-head">
+      <div class="kicker"><span></span>GLOBAL SEARCH / 全局检索</div>
+      <button class="modal-x" id="searchClose">×</button>
+    </div>
+    <input id="searchInput" class="search-input" autocomplete="off" spellcheck="false"
+           placeholder="输入选手 ID、战队名或赛事名…">
+    <div class="search-hint"><span>↑↓ 选择</span><span>↵ 打开</span><span>ESC 关闭</span></div>
+    <div class="search-results" id="searchResults"></div>
+  </div>
+</div>
+
+<div id="toast"></div>
+<div id="grain"></div>
+<div id="scan"></div>
+
+<script src="assets/data/meta.js"></script>
+<script src="assets/data/core.js"></script>
+<script src="assets/data/roster.js"></script>
+<script src="assets/data/intel.js"></script>
+<script src="assets/data/maps.js"></script>
+<script src="assets/js/app.js"></script>
+<script src="assets/js/maplab.js"></script>
+</body>
+</html>

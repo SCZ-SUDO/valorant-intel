@@ -1,0 +1,34 @@
+# ── 构建产物 ──
+build/
+dist/
+app/dist/
+*.app
+*.dmg
+*.zip
+
+# ── 依赖与环境 ──
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# ── 模型权重 / 检查点 ──
+*.pt
+*.bin
+*.safetensors
+
+# ── 私密与本地文件 ──
+.env
+.env.*
+*.env
+config.json
+server_data/
+*.log
+
+# ── macOS / 编辑器 ──
+.DS_Store
+._*
+*.swp
+.idea/
+.vscode/
