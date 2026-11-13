@@ -342,6 +342,8 @@ function setView(html) { $('#view').innerHTML = '<div class="view-inner">' + htm
 function home() {
   var ups = upcoming().slice().sort(function (a, b) { return (a.utc || '') < (b.utc || '') ? -1 : 1; });
   var real = ups.filter(function (u) {
+    // 排除对阵未定的占位场次（TBD），否则首页会把「TBD vs TBD」当成下一场
+    if (u.teams[0].name === 'TBD' || u.teams[1].name === 'TBD') return false;
     return teamOf(u.teams[0].name).n >= 10 && teamOf(u.teams[1].name).n >= 10;
   })[0] || null;
   var heroA, heroB, heroBo, heroEvent, heroSeries, heroDate, heroMode, heroNote;
@@ -354,7 +356,7 @@ function home() {
     heroNote = '';
   } else {
     var top = TEAMS.filter(function (t) {
-      return t.n >= 30 && t.lastDate && daysBetween(t.lastDate, isoToday()) < 400;
+      return t.name !== 'TBD' && t.n >= 30 && t.lastDate && daysBetween(t.lastDate, isoToday()) < 400;
     }).sort(function (a, b) { return b.elo - a.elo; });
     heroA = top[0]; heroB = top[1]; heroBo = 3;
     heroEvent = 'ELO POWER MATCHUP'; heroSeries = '榜首对决';

@@ -406,6 +406,8 @@ def main():
 
     # 待赛
     upcoming = json.load(open(os.path.join(DATA, "upcoming.json")))
+    # 对阵未定的场次（TBD vs TBD）排到后面，首页「下一场」优先展示双方已知的比赛
+    upcoming.sort(key=lambda u: (any(t.get("name") == "TBD" for t in u["teams"]), u.get("isoDate", "")))
     for u in upcoming:
         for t in u["teams"]:
             t["name"] = canon.get(norm(t["name"]), t["name"])
